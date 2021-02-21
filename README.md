@@ -6,6 +6,8 @@ Download and Extract the files, then Run DemoRenamer.exe (or .ahk if you have Au
 
 1) You will be asked the demos folder.
 
+Every sub-folder will be checked for any .dem file starting by "asrd"
+
 2) You will be asked the folder to sort the demo into.
 
 3) The tool will then sort them by Date/Server
@@ -14,4 +16,4 @@ Download and Extract the files, then Run DemoRenamer.exe (or .ahk if you have Au
 
 4) The tool will then rename them into asrd_(Date)-(Day)_(MapName)
 
-Only files starting with "asrd" will be moved (the [autorecord tool](https://github.com/wawawawawawawa/Alien-Swarm-AutoRecord) automatically name them asrd_X).
+Only files starting with "asrd" will be moved/renamed (the [autorecord tool](https://github.com/wawawawawawawa/Alien-Swarm-AutoRecord) automatically name them asrd_X).
