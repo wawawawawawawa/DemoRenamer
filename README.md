@@ -20,7 +20,7 @@ Server is actually an IP adress
    
 ![progress](https://i.imgur.com/BKxUsQ5.png)
 
-**3) That's it! **
+**3) That's it!**
 
 ![renamer](https://i.imgur.com/Dl5tkcQ.png)
 
