@@ -17,7 +17,7 @@ Every sub-folder will be checked for any .dem file starting by "asrd"
    Each file will be moved to the (folder selected)/Day/Server/
    Server is actually an IP adress
 
-4) The tool will then rename them into asrd_(Date)-(Day)_(MapName)
+4) The tool will then rename them into asrd_(Date)-(Time)_(MapName)
 
 ![renamer](https://i.imgur.com/Dl5tkcQ.png)
 
