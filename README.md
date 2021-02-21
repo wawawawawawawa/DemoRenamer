@@ -8,7 +8,7 @@ Download and Extract the files, then Run DemoRenamer.exe (or .ahk if you have [A
 
 ![record](https://i.imgur.com/gkKfBDH.png)
 
-Every sub-folder will be checked for any .dem file starting by "asrd"
+Choose if you want every sub-folder to be checked for any .dem file starting by "asrd"
 
 **2) You will be asked the folder to sort the demo into.**
 
