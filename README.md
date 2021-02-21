@@ -4,7 +4,7 @@ This tool will allow you to automaticly sort recording of your games in a few cl
 
 Download and Extract the files, then Run DemoRenamer.exe (or .ahk if you have AutoHotkey installed).
 
-1) You will be asked the demos folder (usually the game directory\reactivedrop\).
+**1) You will be asked the demos folder (usually the game directory\reactivedrop\).**
 
 ![record](https://i.imgur.com/gkKfBDH.png)
 
