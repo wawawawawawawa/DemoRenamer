@@ -29,8 +29,8 @@ else
 count := 0
 error := 0
 errorlist := 
-; Loop, Files, %FilesFrom%\*.dem, R
-Loop, Files, %FilesFrom%\*.dem
+Loop, Files, %FilesFrom%\*.dem, R
+; Loop, Files, %FilesFrom%\*.dem
 {
 	count += 1
 }
@@ -41,8 +41,8 @@ Gui, Add, Text, vFileCount w500, 0 of %count%
 Gui, Add, Text, vTextMessage w500, Starting script
 Gui, Show
 
-; Loop, Files, %FilesFrom%\*.dem, R
-Loop, Files, %FilesFrom%\*.dem
+Loop, Files, %FilesFrom%\*.dem, R
+; Loop, Files, %FilesFrom%\*.dem
 {
 	GuiControl,, FileCurrent, Processing %A_LoopFileName%
 	FoundPos := InStr(A_LoopFileName, "asrd")
