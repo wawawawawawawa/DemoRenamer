@@ -12,7 +12,7 @@ Choose if you want every sub-folder to be checked for any .dem file starting by 
 
 **2) You will be asked the folder to sort the demo into.**
 
-**3) The tool will then sort them by Date/Server**
+The tool will then sort them by Date/Server and rename them into asrd_(Date)-(Time)_(MapName)
 
 Each file will be moved to the (folder selected)/Day/Server/
 
@@ -20,7 +20,7 @@ Server is actually an IP adress
    
 ![progress](https://i.imgur.com/BKxUsQ5.png)
 
-**4) The tool will then rename them into asrd_(Date)-(Time)_(MapName)**
+**3) That's it! **
 
 ![renamer](https://i.imgur.com/Dl5tkcQ.png)
 
